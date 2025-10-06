@@ -1,0 +1,5 @@
+{
+  "name": "Acme Dashboard",
+  "description": "A fully functional dashboard application built with React, TypeScript, and Tailwind CSS, replicating the features and design from the Next.js 'Learn' tutorial.",
+  "requestFramePermissions": []
+}
